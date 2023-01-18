@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "649557414191",
+    "project_id": "food-app-my-practice",
+    "storage_bucket": "food-app-my-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649557414191:android:6dea53da1a71e9bafd51da",
+        "android_client_info": {
+          "package_name": "com.foodprojectmypractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649557414191-dni5ou1rhcdtt0ikgv8g05ilqmi357am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodprojectmypractice",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "649557414191-d8d8o5g5l3t8vjh7tcibrggu9pf14e1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDU33_1ydokFzNqqslwKu-A6wwvJ0x6JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649557414191-d8d8o5g5l3t8vjh7tcibrggu9pf14e1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
